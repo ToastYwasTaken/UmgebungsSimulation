@@ -1,4 +1,4 @@
-Alle Assets, die aus dem Unity Store importiert worden sind und für das Projekt benutzt werden, sind im Ordner UsedAssets
-Selbst zusätzlich erstellte Assets in OwnAssets (Bsp. Shader Graph für Wasser).
-Um die wesentlichen Elemente der passenden Umgebungssimulation zu sehen, kann man diese besser mithilfe der Highlights finden, 
-diese bringen einen sofort zum dementsprechenden Standort.
+All Assets imported from Unity are in UsedAssets
+Additional created assets in OwnAssets (shader graph for water...).
+The simulated "highlights" show POI where i placed simulation highlights, like animated water.
+When starting the game you can fly to a desired destination and look at everything in realtime.

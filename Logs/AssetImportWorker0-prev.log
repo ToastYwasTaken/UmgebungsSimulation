@@ -15,11 +15,11 @@ C:/Users/x79/Documents/GitHub/UmgebungsSimulation
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61218
+57287
 Successfully changed project path to: C:/Users/x79/Documents/GitHub/UmgebungsSimulation
 C:/Users/x79/Documents/GitHub/UmgebungsSimulation
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 53.89 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 54.37 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.11f1 (99c7afb366b3)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
@@ -36,156 +36,52 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001546 seconds.
+Registered in 0.001571 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.50 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 51.47 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.920 seconds
+- Completed reload, in  0.936 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004007 seconds.
+Registered in 0.003785 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.65 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 55.61 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.000 seconds
+- Completed reload, in  1.031 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2820 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 225.1 MB.
-System memory in use after: 225.2 MB.
+System memory in use before: 226.7 MB.
+System memory in use after: 226.9 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3285.
-Total: 2.024000 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.070500 ms MarkObjects: 1.623100 ms  DeleteObjects: 0.089600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/_TerrainAutoUpgrade
-  artifactKey: Guid(50a81bd72fa485d438bf14d0e8070df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_TerrainAutoUpgrade using Guid(50a81bd72fa485d438bf14d0e8070df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f669a6bc9a87c630a825a467dc3023') in 0.009108 seconds
-  Import took 0.013116 seconds .
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3286.
+Total: 2.190000 ms (FindLiveObjects: 0.262000 ms CreateObjectMapping: 0.067700 ms MarkObjects: 1.761300 ms  DeleteObjects: 0.097800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/ImportedAssets
-  artifactKey: Guid(1798bfcfded58644fb9eb4f567e1c4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets using Guid(1798bfcfded58644fb9eb4f567e1c4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2416eb62330daad797255a031a9a9922') in 0.005737 seconds
-  Import took 0.009438 seconds .
+  path: Assets/ImportedAssets/EffectExamples/SmokeTrail.mat
+  artifactKey: Guid(85320f50710fcfb4d886bc56151bea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedAssets/EffectExamples/SmokeTrail.mat using Guid(85320f50710fcfb4d886bc56151bea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74b58eb267a577013644e9a8678e5f7') in 0.184204 seconds
+  Import took 0.188197 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.530234 seconds.
-  path: Assets/OwnAssets/New Terrain 1.asset
-  artifactKey: Guid(70e1c29e4692941458ccf285dd65d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OwnAssets/New Terrain 1.asset using Guid(70e1c29e4692941458ccf285dd65d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0d88b0060d74e87f1e5ccbf3e73496') in 0.062842 seconds
-  Import took 0.067033 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 63.468879 seconds.
-  path: Assets/OwnAssets/m_water.mat
-  artifactKey: Guid(58fe2d62325b0f94683b4cd167df7387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OwnAssets/m_water.mat using Guid(58fe2d62325b0f94683b4cd167df7387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739f42ec28b96ff6173ab86f128bdf5c') in 0.433965 seconds
-  Import took 0.438260 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/OwnAssets/UniversalRenderPipelineAsset.asset
-  artifactKey: Guid(6855ff470e1beb4488602346b35880ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OwnAssets/UniversalRenderPipelineAsset.asset using Guid(6855ff470e1beb4488602346b35880ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd58033db40f75ac944780fbe78fbb8') in 0.006589 seconds
-  Import took 0.010256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/OwnAssets/UniversalRenderPipelineAsset_Renderer.asset
-  artifactKey: Guid(4febe481a26e9794f9fcacca19b52c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/OwnAssets/UniversalRenderPipelineAsset_Renderer.asset using Guid(4febe481a26e9794f9fcacca19b52c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ca74119cba22ba7185d0f5b94bea40') in 0.006588 seconds
-  Import took 0.010089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.408758 seconds.
-  path: Assets/ImportedAssets/EffectExamples
-  artifactKey: Guid(6c0b056137d972f46a0312ba21b6263f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples using Guid(6c0b056137d972f46a0312ba21b6263f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398194dfecb4563e548d68c435d1f50a') in 0.005649 seconds
-  Import took 0.009497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.937423 seconds.
-  path: Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor
-  artifactKey: Guid(3dbed23d005c97e4c8d5f1a63fb56834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor using Guid(3dbed23d005c97e4c8d5f1a63fb56834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f06798ab24fdab70099eaede87ce5fe') in 0.006573 seconds
-  Import took 0.010558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000339 seconds.
-  path: Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor
-  artifactKey: Guid(3dbed23d005c97e4c8d5f1a63fb56834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor using Guid(3dbed23d005c97e4c8d5f1a63fb56834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f06798ab24fdab70099eaede87ce5fe') in 0.001834 seconds
-  Import took 0.005626 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.302747 seconds.
-  path: Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
-  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e7759e4141f6f792578e01c4f6df57') in 0.011118 seconds
-  Import took 0.015082 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.022988 seconds.
-  path: Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
-  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e7759e4141f6f792578e01c4f6df57') in 0.002461 seconds
-  Import took 0.007195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55.039982 seconds.
-  path: Assets/ImportedAssets/EffectExamples/Editor
-  artifactKey: Guid(865a9979c64e5da448aeed5e6d8b3de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/Editor using Guid(865a9979c64e5da448aeed5e6d8b3de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7545a59d26739f0a41bdf0ad64f2581d') in 0.002195 seconds
-  Import took 0.006526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.650740 seconds.
-  path: Assets/ImportedAssets/EffectExamples/Editor/PackageManagerAssembly
-  artifactKey: Guid(d899c3023b28a9b4c9ea94e5ca4d892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/Editor/PackageManagerAssembly using Guid(d899c3023b28a9b4c9ea94e5ca4d892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a530ed39850627c3a26f995944ae4710') in 0.005455 seconds
-  Import took 0.009336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.402658 seconds.
-  path: Assets/ImportedAssets/EffectExamples/Blood
-  artifactKey: Guid(96a4fd4c27ed4214f905c521891b2c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/Blood using Guid(96a4fd4c27ed4214f905c521891b2c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969659da198063bb7563809aeb5bf4b9') in 0.006026 seconds
-  Import took 0.009919 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000399 seconds.
-  path: Assets/ImportedAssets/EffectExamples/Blood
-  artifactKey: Guid(96a4fd4c27ed4214f905c521891b2c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ImportedAssets/EffectExamples/Blood using Guid(96a4fd4c27ed4214f905c521891b2c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969659da198063bb7563809aeb5bf4b9') in 0.001914 seconds
-  Import took 0.005710 seconds .
+  Time since last request: 0.000179 seconds.
+  path: Assets/ImportedAssets/EffectExamples/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ImportedAssets/EffectExamples/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24104818542c14c92f1fcc33773fd05') in 0.009921 seconds
+  Import took 0.013813 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
