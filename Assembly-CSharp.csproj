@@ -64,6 +64,7 @@
     <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\GunShoot.cs" />
     <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\GunAim.cs" />
+    <Compile Include="Assets\OwnAssets\SkyboxDayNightCycle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\README.txt" />
