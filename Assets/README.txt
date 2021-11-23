@@ -4,7 +4,7 @@ The simulated "highlights" show POI where i placed simulation highlights, like a
 I recreated effects like water-shader, watersplash-effect, fire-effect. 
 The ones i did not create myself but were used in scene are in "Used Assets".
 When starting the game you can fly to a desired destination and look at everything in realtime.
-NOTE: APOCALYPTIC WORLDPACK & GRASS FLOWER PACKS HAS TO BE IMPORTED
+NOTE: ApocalypticWorld & GrassFlowersPackFree  & TerrainTexturesPackFree HAVE TO BE IMPORTED
 
 Scene-Highlights:
 
