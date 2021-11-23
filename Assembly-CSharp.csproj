@@ -56,19 +56,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\GunShoot.cs" />
-    <Compile Include="Assets\ImportedAssets\EffectExamples\Shared\Scripts\GunAim.cs" />
     <Compile Include="Assets\OwnAssets\SkyboxDayNightCycle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\README.txt" />
-    <None Include="Assets\ImportedAssets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
