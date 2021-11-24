@@ -2,9 +2,9 @@ All Assets imported from Unity are in UsedAssets
 Additional created assets in OwnAssets (shader graph for water...).
 The simulated "highlights" show POI where i placed simulation highlights, like animated water.
 I recreated effects like water-shader, watersplash-effect, fire-effect. 
-The ones i did not create myself but were used in scene are in "Used Assets".
+The ones i did not create myself but were used in scene are in "Used Assets" (Spark effect).
 When starting the game you can fly to a desired destination and look at everything in realtime.
-NOTE: ApocalypticWorld & GrassFlowersPackFree  & TerrainTexturesPackFree HAVE TO BE IMPORTED
+NOTE: ApocalypticWorld & GrassFlowersPackFree  & TerrainTexturesPackFree HAVE TO BE IMPORTED, also you need to upgrade the project materials in the renderer pipeline
 
 Scene-Highlights:
 
@@ -21,7 +21,7 @@ Scene-Highlights:
 	- Adjusted the material on the trees to make them look snowy.
 
 -Day-Night-Cycle:
-	-Adjustable day-night-cylce
+	-Adjustable day-night-cylce in DayNightManager object.
 
 Bugs:
 
